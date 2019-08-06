@@ -9,21 +9,22 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/btn_activity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:text="Latihan 1" />
+        android:text="Latihan Activity" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:text="Latihan 1" />
+        android:text="Latihan Intent" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:text="Latihan 1" />
+        android:text="Latihan Fragment" />
 
 </LinearLayout>
